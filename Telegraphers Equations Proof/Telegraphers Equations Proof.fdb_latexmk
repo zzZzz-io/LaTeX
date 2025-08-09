@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1751396665.36684 "/Users/ziyangling/Documents/GitHub/LaTeX/HW Template/HW_template.tex" "HW_template.pdf" "HW_template" 1751396666.37393 0
-  "/Users/ziyangling/Documents/GitHub/LaTeX/HW Template/HW_template.tex" 1751396665.15544 3058 e5b0f7dbdd6a8bb66d9b1693914479a6 ""
+["pdflatex"] 1751396435.22098 "/Users/ziyangling/Documents/GitHub/LaTeX/Telegraphers Equations Proof/Telegraphers Equations Proof.tex" "Telegraphers Equations Proof.pdf" "Telegraphers Equations Proof" 1751396436.20276 0
+  "/Users/ziyangling/Documents/GitHub/LaTeX/Telegraphers Equations Proof/Telegraphers Equations Proof.tex" 1751396435.01268 1226 82cb5c6b3dfc23f5d00ebddd20c98ad7 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1741388039 1004 54797486969f23fa377b128694d548df ""
@@ -129,7 +129,6 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty" 1741388039 2963 d8ec5a1b4e0a106c5c737900202763e4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/atveryend-ltx.sty" 1741388039 2378 14b657ee5031da98cf91648f19642694 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/size10.clo" 1741388039 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
-  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/comment/comment.sty" 1741388039 10197 204f75d5d8d88aa345a8c402e879e63b ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1741388039 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1741388039 46850 d87daedc2abdc653769a6f1067849fe0 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1741388039 31715 19e60610b63819fe670dfa1cd84a4e94 ""
@@ -210,12 +209,12 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/xpatch/xpatch.sty" 1741388039 8314 7803f78066c4f9d008405191a4b43073 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
-  "HW_template.aux" 1751396666.26923 269 7feb20decb94bcc736b784e8ac7b0b1f "pdflatex"
-  "HW_template.out" 1751396666.26992 109 ae7d918520d91f7df5d3d53b0e1bf2aa "pdflatex"
-  "HW_template.tex" 1751396665.15544 3058 e5b0f7dbdd6a8bb66d9b1693914479a6 ""
+  "Telegraphers Equations Proof.aux" 1751396436.11321 269 7feb20decb94bcc736b784e8ac7b0b1f "pdflatex"
+  "Telegraphers Equations Proof.out" 1751396436.11387 109 ae7d918520d91f7df5d3d53b0e1bf2aa "pdflatex"
+  "Telegraphers Equations Proof.tex" 1751396435.01268 1226 82cb5c6b3dfc23f5d00ebddd20c98ad7 ""
   (generated)
-  "HW_template.aux"
-  "HW_template.log"
-  "HW_template.out"
-  "HW_template.pdf"
+  "Telegraphers Equations Proof.aux"
+  "Telegraphers Equations Proof.log"
+  "Telegraphers Equations Proof.out"
+  "Telegraphers Equations Proof.pdf"
   (rewritten before read)

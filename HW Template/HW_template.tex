@@ -8,6 +8,7 @@
 \usepackage[unicode]{hyperref} % For hyperlinks and cross referencing
 \usepackage[all]{hypcap} 
 \usepackage{fancyhdr} % For fancy headers
+\usepackage{comment} % For comments in the code
 
 \usetikzlibrary{angles,calc, decorations.pathreplacing}
 
@@ -41,6 +42,12 @@ Answer work
 \color{Thistle}{\textbf{Answer}}
 }
 
+\end{document}
+
+
+
+\begin{comment}
+    
 \begin{tikzpicture}
 
 % coords for drawing angles
@@ -83,6 +90,5 @@ Answer work
 \draw [thick, brightlavender, decorate,decoration={brace,amplitude=6pt,raise=1ex, mirror}] (0,0) -- (0, -6) node[midway, xshift=-3em]{12.0 m};
 \end{tikzpicture}
 
-
-
-\end{document}
+\end{comment}
+%Uncomment the above code to draw a vector diagram
